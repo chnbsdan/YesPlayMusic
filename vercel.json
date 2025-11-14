@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://musicapi.hangdn.com/:match*"
+      "destination": "https://wy.1356666.xyz/:match*"
     }
   ]
 }
