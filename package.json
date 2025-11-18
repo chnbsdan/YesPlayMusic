@@ -97,14 +97,12 @@
     "vue-cli-plugin-electron-builder": "~2.1.1",
     "vue-template-compiler": "^2.6.11"
   },
-  {
   "resolutions": {
     "icon-gen": "3.0.0",
     "degenerator": "2.2.0",
     "electron-builder": "^23.0.0",
     "@achrinza/node-ipc": "^9.2.2"
-  }
-}
+  },
   "eslintConfig": {
     "root": true,
     "env": {
