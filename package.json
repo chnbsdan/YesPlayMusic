@@ -18,7 +18,6 @@
     "electron:publish": "vue-cli-service electron:build -mwl -p always",
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps",
-    "preinstall": "npx npm-force-resolutions",
     "prettier": "npx prettier --write ./src",
     "netease_api:run": "npx @neteaseapireborn/api"
   },
